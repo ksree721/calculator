@@ -1,1 +1,1 @@
-# calculator
+# nagesh-debt-calculator
